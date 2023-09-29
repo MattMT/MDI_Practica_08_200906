@@ -1,16 +1,25 @@
-# movieapp_200906
+# DDI_movieapp_200906
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mateo Maldonado Tolentino 
+## 10A
+### Desarrollo Móvil Integral
+&nbsp;
+&nbsp;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://github.com/MattMT/DMI_src/blob/main/ss08.jpeg)]((https://github.com/MattMT/DMI_src/blob/main/ss08.jpeg))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 08 Renderización del poster de las peliculas populares |
+| Descripción  | Mediante el uso de una api-key se creo una lista de imagnes que se obtienen a travez de la misma proporcionada desde un servciciop especializado para este tipo de tecnologías. |
+|  Fecha de Carga | 25/09/23  |
