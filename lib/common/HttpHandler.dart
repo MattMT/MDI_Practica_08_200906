@@ -14,7 +14,7 @@ class HttpHandler {
   }
 
   Future<List<Media>> fetchMovies() {
-    var uri = new Uri.https(_baseUrl, "3/movies/popular",
+    var uri = new Uri.https(_baseUrl, "3/movie/popular",
         {'api_key': API_KEY, 'page': "1", 'language': _language});
 
     return getJson(uri).then(((data) =>
