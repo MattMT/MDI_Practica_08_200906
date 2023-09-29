@@ -22,4 +22,4 @@
 | :------------: | :------------: |
 | Nombre  |  Práctica 08 Renderización del poster de las peliculas populares |
 | Descripción  | Mediante el uso de una api-key se creo una lista de imagnes que se obtienen a travez de la misma proporcionada desde un servciciop especializado para este tipo de tecnologías. |
-|  Fecha de Carga | 25/09/23  |
+|  Fecha de Carga | 29/09/23  |
